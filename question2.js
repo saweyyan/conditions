@@ -5,9 +5,19 @@
   number more than or equal 100 return =>  number
 */
 function test(number){
-    // write if statement here
-    
-    // return the result 
+  
+
+
+    if(number < 10){return ("00"+number)}
+
+    else if (number==10){return undefined}
+
+    else if (10 < number < 100){return ("0"+number)}
+
+    else if (number >= 100 ){return number}
+        
+    return 0;
+
 }
 
 
