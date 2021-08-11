@@ -61,7 +61,7 @@ if ((num1 + num2 + num3) < num4) {
 
 // Condition 7
 
-if (num4 - (num1 + num3) + num2 === 21) {
+if (num4 + (num1 - num3) + num2 === 21) {
   console.log("True");
 } else {
   console.log("False");
