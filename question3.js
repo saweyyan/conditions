@@ -1,9 +1,10 @@
 // update the values so that all condition will log true into the console
 
-var num1 = 10;
-var num2 = 10;
-var num3 = "10";
-var num4 = 20;
+let num1 = 4;
+let num2 = 2;
+let num3 = 4;
+let num4 = 19;
+
 
 /*
   Do Not Edit Below This Line
