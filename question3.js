@@ -1,8 +1,8 @@
 // update the values so that all condition will log true into the console
 
-var num1 = 10;
-var num2 = 10;
-var num3 = "10";
+var num1 = 9;
+var num2 = 1;
+var num3 = 9;
 var num4 = 20;
 
 /*
