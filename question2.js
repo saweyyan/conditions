@@ -6,6 +6,17 @@
 */
 function test(number){
     // write if statement here
+    if (number < 10){
+      return "00" + number}
+
+    if (number >10 && number < 100){
+      return "0" + number}
+
+    if (number >= 100){
+      return number}
+
+
+    
     
     // return the result 
 }
